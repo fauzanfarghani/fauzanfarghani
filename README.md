@@ -6,7 +6,7 @@ Hi, I'm Fauzan! I'm a Data Analyst/Data Scientist/Data Engineer passionate about
 - 🌍 Based in Bekasi, Jawa Barat, Indonesia.
 - 💻 Specializing in Python, Machine Learning, Data Analytics, and Data Engineering.
 - 📫 Reach me at fauzanf78@rocketmail.com
-- 🔗 Check out my [LinkedIn](www.linkedin.com/in/fauzanfarghani)
+- 🔗 Check out my [LinkedIn](https://www.linkedin.com/in/fauzanfarghani)
 
 ## What I Do
 - 🛠️ Building projects in Visual Code using Python for Data Analytics purposes.
@@ -22,7 +22,7 @@ Hi, I'm Fauzan! I'm a Data Analyst/Data Scientist/Data Engineer passionate about
 
 ## Get in Touch
 - 📧 Email: fauzanf78@rocketmail.com
-- 💬 Connect on [LinkedIn](www.linkedin.com/in/fauzanfarghani)
+- 💬 Connect on [LinkedIn](https://www.linkedin.com/in/fauzanfarghani)
 
 Thanks for visiting! 🚀 Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech!
 
